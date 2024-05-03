@@ -1,0 +1,25 @@
+1.  User connects their wallet at Connect Wallet page.
+2.  If (is user is registered)
+    Then
+        successful login and all functions are enabled (just like any other app).
+    Else
+        redirect to register page.
+        Prompt user to register.
+        After register, user is redirected to Connect Wallet page.
+        Connect Wallet again.
+3.  Purchase tokens from Exchange page for facilitating transactions on the app.
+
+Case: Buyer
+4.  Participate in an ongoing Auction(if any).
+5.  Bid on a listing.
+6.  If won, then complete the trade with the seller.
+
+Case: Seller
+4.  Publish a listing on an ongoing auction(if any).
+5.  End the listing as per the liking or wait for it to end along with the auction.
+6.  Complete the trade
+    If (there is a bidder)
+    Then
+        Complete the trade with the bidder(buyer).
+    Else
+        Sell energy to the Grid.

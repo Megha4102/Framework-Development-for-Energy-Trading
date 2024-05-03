@@ -1,0 +1,9 @@
+from buyer
+    purchase 1 certi from grid(make sure you have enough eltk)
+    then in the auction, add listing for that certi
+
+from admin
+    bid on that certi
+    close auction after a while
+
+then see if trade was successful or not.

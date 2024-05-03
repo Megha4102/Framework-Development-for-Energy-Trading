@@ -1,0 +1,3 @@
+Replace this hardcoded stuff if found anywhere. If using webstorm, click shift twice for global search.
+Address: 0x10D232e63e59Ab646358C0dBFB342C0FA78D4cF4
+Private key: 0x8f99d7e305249e5c21f3241438bfe63b445771d05b09bd0e76ae6f05acf3cea6
